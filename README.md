@@ -31,3 +31,14 @@ for question_id, dataentry in dataset:
 Refer to `examples` folder for more examples of the benchmark evaluation
 
 
+# Citing
+If you use this protocol in your project, please consider citing:
+```
+@inproceedings{rumiantsev2025fevalttc,
+    title={{FE}val-{TTC}: {Fair Evaluation Protocol for Test-Time Compute}},
+    author={Pavel Rumiantsev and Soumyasundar Pal and Yingxue Zhang and Mark Coates},
+    booktitle={NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling},
+    year={2025},
+    url={https://openreview.net/forum?id=Fj9Ge7TdrY}
+}
+```
